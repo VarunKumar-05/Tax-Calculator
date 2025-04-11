@@ -17,6 +17,8 @@ SQLite database for storing user information, income data, and purchase history
 JWT-based authentication system with secure login/signup flow
 Data validation and security measures for all API endpoints
 Tax calculation logic that processes income and purchase data
+
+
 **Frontend Components**
 React application with responsive UI built using Tailwind CSS
 Authentication pages (login and signup) with form validation
